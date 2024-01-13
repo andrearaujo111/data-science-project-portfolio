@@ -1,30 +1,37 @@
-Editorial by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Portfolio de Projetos de Ciência de Dados
 
+Bem-vindo ao meu portfólio de projetos de ciência de dados! Este repositório contém uma coleção de projetos que demonstrem minhas habilidades em análise de dados, machine learning, visualização e outras áreas relacionadas à ciência de dados.
 
-Say hello to Editorial, a blog/magazine-ish template built around a toggleable "locking"
-sidebar (scroll down to see what I mean) and an accordion-style menu. Not the usual landing
-page/portfolio affair you'd expect to see at HTML5 UP, but I figured for my 41st (!!!)
-template I'd change it up a little. Enjoy :)
+## Projetos
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+### [Nome do Projeto 1](link_para_o_projeto1)
+- Descrição concisa do projeto.
+- Principais técnicas/tecnologias utilizadas.
+- Resultados e conclusões.
 
-(* = not included)
+[![Projeto 1](imagem_projeto1.jpg)](link_para_o_projeto1)
 
-AJ
-aj@lkn.io | @ajlkn
+### [Nome do Projeto 2](link_para_o_projeto2)
+- Descrição concisa do projeto.
+- Principais técnicas/tecnologias utilizadas.
+- Resultados e conclusões.
 
+[![Projeto 2](imagem_projeto2.jpg)](link_para_o_projeto2)
 
-Credits:
+...
 
-	Demo Images:
-		Unsplash (unsplash.com)
+## Estrutura do Repositório
 
-	Icons:
-		Font Awesome (fontawesome.io)
+Aqui está uma visão geral da estrutura do repositório:
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+- **/projeto1**: Pasta contendo os arquivos do Projeto 1.
+- **/projeto2**: Pasta contendo os arquivos do Projeto 2.
+- **/imagens**: Pasta contendo imagens e capturas de tela.
+- **/notebooks**: Pasta contendo Jupyter Notebooks dos projetos.
+
+## Como Executar os Projetos Localmente
+
+1. Clone este repositório em sua máquina local:
+
+   ```bash
+   git clone https://github.com/seu-username/portfolio-ciencia-de-dados.git
